@@ -17,3 +17,10 @@ This json file can be gotten from the
 
 <h2>Note:</h2>
 This project was done with Gradle and not Maven. So you will not find a pom.xml file here.
+
+<h2>Some helpful links:</h2>
+<ul>
+  <li><a href="https://developers.google.com/sheets/api/quickstart/java">Google Sheets API with Java SDK<a></li>
+  <li><a href="https://docs.gradle.org/current/userguide/command_line_interface.html">Commands for Gradle<a></li>
+  <li><a href="https://www.youtube.com/watch?v=zDxTSUWaZs4">Video demonstrating how to use Gradle<a></li>
+</ul>
