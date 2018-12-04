@@ -11,9 +11,9 @@ This project is a demo of working with the Google Sheets API and the Java SDK.
 </ol>
 
 <h2>About the credentials.json file:</h2>
-This json file can be gotten from the Google Cloud Platform API Dashboard
-<a href="https://console.cloud.google.com/apis/dashboard">Link to Google Cloud Platform API Dashboard</a>
+This json file can be gotten from the 
+<a href="https://console.cloud.google.com/apis/dashboard">Google Cloud Platform API Dashboard</a>
 
 
 <h2>Note:</h2>
-This project was done with Gradle and not Maven. So you will not find an pom.xml file here.
+This project was done with Gradle and not Maven. So you will not find a pom.xml file here.
